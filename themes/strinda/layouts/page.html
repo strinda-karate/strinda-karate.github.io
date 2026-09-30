@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="site-header">
-  <a class="site-logo" href="{{ site.Home.Permalink }}"><img src="{{ site.Params.logo | relURL }}" alt="{{ site.Title }}"></a>
+  <a class="site-logo" href="{{ site.Home.Permalink }}">{{ partial "logo.html" "" }}</a>
   {{ partial "menu.html" . }}
 </header>
 <main class="content">

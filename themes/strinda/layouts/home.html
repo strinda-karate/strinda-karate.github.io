@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="hero">
-  <img class="hero-logo" src="{{ site.Params.logo | relURL }}" alt="{{ site.Title }}">
+  {{ partial "logo.html" "hero-logo" }}
   {{ partial "menu.html" . }}
 </main>
 {{ end }}

@@ -1,0 +1,5 @@
+{{- /* Renders the site logo with intrinsic width/height so the browser reserves space before the image loads. Pass a class name (or "") as context. */ -}}
+{{- $src := site.Params.logo -}}
+{{- with images.Config (path.Join "static" $src) -}}
+<img{{ with $ }} class="{{ . }}"{{ end }} src="{{ $src | relURL }}" alt="{{ site.Title }}" width="{{ .Width }}" height="{{ .Height }}">
+{{- end -}}
