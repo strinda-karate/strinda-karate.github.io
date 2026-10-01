@@ -1,4 +1,4 @@
-baseURL = "https://strinda-karate.github.io/web/"
+baseURL = "https://strinda-karate.github.io/"
 locale = "nb-NO"
 defaultContentLanguage = "nb"
 title = "Strinda Karate"
