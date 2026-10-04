@@ -24,7 +24,7 @@ Gi og annet utstyr fra [jkabutikken.no][jka-butikken] kan bestilles via klubbens
 
 Belter til kyu-graderinger (farget belter) kan kjøpes på gradering, og trenges ikke eksplisitt å bestilles. Brukte belter i god stand kan doneres til klubben om dere ønsker det.
 
-**Neste frist for bestilling er 1. oktober 2026.** Ta kontakt via Spond eller SMS. Betaling via Vipps.
+**Bstilling for høst 2027 er gjennomført. Neste bestilling kjøres våren 2027.**
 
 [jka-butikken]: https://www.jkabutikken.no/
 
