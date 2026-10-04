@@ -8,12 +8,12 @@ Her er noe av det som skjer i karateverden 2026/2027.
 
 | Dato | Arrangør| Sted | Arrangement |
 | :--- |:---|:--- | :--- |
-| **7.–9. november** | **Strinda Karateklubb** | **Strindheim skole, Trondheim** | **Treningssamling med Sensei Poh Lim**
+| 7.–9. november | **Strinda Karateklubb** | Strindheim skole, Trondheim | Treningssamling med Sensei Poh Lim
 | 13.–14. november | NTKF | Info kommer | [Treningssamling med Kenny Taylor][kenny13]
 | 17. oktober | JKA Norway | Vest og Øst | [Regionstrening][jka-terminliste] |
 | 19.–22. november | Bjørgvin | Bergen | [Høstgasshuku Bergen][jka-terminliste] |
 | 28.–29. november | Arna | Bergen | [Barnegasshuku Vest][jka-terminliste] |
-| **Desember** | **Strinda Karateklubb** | **Strindheim skole, Trondheim** | **Graderingssamling og gradering** |
+| Desember | **Strinda Karateklubb** | Strindheim skole, Trondheim | Graderingssamling og gradering |
 
 [kenny13]: https://www.facebook.com/ntkf.no/posts/i-november-f%C3%A5r-vi-bes%C3%B8k-av-sensei-kenny-taylor-igjen-vi-gleder-oss-mer-informasj/1550723156857531/
 
