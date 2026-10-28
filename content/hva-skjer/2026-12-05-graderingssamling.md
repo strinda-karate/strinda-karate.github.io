@@ -3,7 +3,9 @@ title: "Graderingssamling og gradering"
 date: 2026-12-05
 ---
 
-**5. desember 2026** · Strinda Karateklubb · Strindheim skole, Trondheim
+- **Dato:** 5. desember 2026
+- **Arrangør:** Strinda Karateklubb
+- **Sted:** Strindheim skole, Trondheim
 
 Det blir graderingssamling 5. desember.
 
@@ -11,7 +13,7 @@ Man må ha betalt medlemskap og graderingsavgift (årlig) og treningsavgift (per
 
 Foreløpig tidsplan (justeringer kan forekomme):
 - 10:30: Registrering
-- 10:45: Trening 1 - barn, ungdom med foresatte (1t)
+- 10:45: Trening 1 - voksne + barn, ungdom med foresatte (1t)
 - 11:45: Pause
 - 12:15: Trening 2 - graderingspensum (45 min)
 - 13:00: Gradering

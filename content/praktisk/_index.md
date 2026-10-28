@@ -13,10 +13,10 @@ Strinda Karate Klubb trener Shotokan Karate, og er en del av [NTKF]. Vi trener p
 
 | Dag | Tid | Beskrivelse |
 | --- | --- | --- |
-| Mandag | 20:00 - 21:30 | Viderekommende (brunt belte og opp, eller etter avtale) |
-| Tirsdag | 20:00 - 21:30 | Mellomparti (voksne, ungdom) |
-| Torsdag | 18:00 - 19:00 | Alle (barn, voksne, ungdom) |
-| Fredag | 19:30 - 20:30 | Viderekommende kata (brunt belte og opp) |
+| Mandag | 20:00 - 21:30 | Viderekommende, Stig R. |
+| Tirsdag | 20:00 - 21:30 | Ungdom og voksne, Stig R. |
+| Torsdag | 18:00 - 19:00 | Barn, ungdom og voksne, Rune, Tatiana/Sindre |
+| Fredag | 19:30 - 20:30 | Viderekommende kata, Stig R. |
 
 ## Utstyr
 
