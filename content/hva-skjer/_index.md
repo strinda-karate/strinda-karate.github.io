@@ -16,7 +16,7 @@ Se treningstider og påmelding [her][poh-form].
 
 [poh-form]: https://forms.cloud.microsoft/e/HWL5kUCrZB
 
-### 24. JKA Nasjonalt Mesterskap
+### JKA Nasjonalt Mesterskap
 **7. november** · Nordås · Laksevåg Idrettshall, Bergen
 
 Mer info [her][jka-nm].
