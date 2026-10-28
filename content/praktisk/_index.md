@@ -11,12 +11,12 @@ Strinda Karate Klubb trener Shotokan Karate, og er en del av [NTKF]. Vi trener p
 
 ## Treningstider høst 2026
 
-| Dag | Tid | Beskrivelse |
-| --- | --- | --- |
-| Mandag | 20:00 - 21:30 | Viderekommende, Stig R. |
-| Tirsdag | 20:00 - 21:30 | Ungdom og voksne, Stig R. |
-| Torsdag | 18:00 - 19:00 | Barn, ungdom og voksne, Rune, Tatiana/Sindre |
-| Fredag | 19:30 - 20:30 | Viderekommende kata, Stig R. |
+| Dag | Tid | Beskrivelse | Instruktører |
+| :--- | :--- | :--- | :--- |
+| Mandag | 20:00 - 21:30 | Viderekommende | Stig R. |
+| Tirsdag | 20:00 - 21:30 | Ungdom og voksne | Stig R. |
+| Torsdag | 18:00 - 19:00 | Barn, ungdom og voksne | Rune, Tatiana/Sindre |
+| Fredag | 19:30 - 20:30 | Viderekommende kata | Stig R. |
 
 ## Utstyr
 
