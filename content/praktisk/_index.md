@@ -22,7 +22,7 @@ Strinda Karate Klubb trener Shotokan Karate, og er en del av [NTKF]. Vi trener p
 
 Som del av NTKF, følger vi det samme pensumet som [JKA Norway][jka-norway-pensum] og JKA globalt. Noe tilpassing for barne-parti og laver grader kan forekomme. F.eks. tilpassing av hvilken spark vi gjennomgår på gradering.
 
-[jka-norway]: https://jkanorway.no/info/pensum/
+[jka-norway-pensum]: https://jkanorway.no/info/pensum/
 
 ## Utstyr
 
