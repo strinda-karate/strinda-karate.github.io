@@ -18,6 +18,12 @@ Strinda Karate Klubb trener Shotokan Karate, og er en del av [NTKF]. Vi trener p
 | Torsdag | 18:00 - 19:00 | Barn, ungdom og voksne | Rune, Tatiana/Sindre |
 | Fredag | 19:30 - 20:30 | Viderekommende kata | Stig R. |
 
+## Graderingspensum
+
+Som del av NTKF, følger vi det samme pensumet som [JKA Norway][jka-norway-pensum] og JKA globalt. Noe tilpassing for barne-parti og laver grader kan forekomme. F.eks. tilpassing av hvilken spark vi gjennomgår på gradering.
+
+[jka-norway]: https://jkanorway.no/info/pensum/
+
 ## Utstyr
 
 Gi og annet utstyr fra [jkabutikken.no][jka-butikken] kan bestilles via klubbens utstyrsansvarlig, Stig Andreas Mastad. Vi gjør vanligvis én bestilling i semesteret. Info sendes ut til klubbens medlemmer før vi gjør en bestilling. 
